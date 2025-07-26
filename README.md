@@ -2,15 +2,13 @@
 
 
 ## Tools used
-**Languages:** Python, SQL
-**Libraries:** Pandas, Seaborn, Matplotlib
-**Spreadsheets:** Excel, Google Sheets
-**Databases:** PostgreSQL, SQLite
-**Reporting:** Jupyter Notebook, nbconvert (PDF generation)
-**Version Control:** Git, GitHub
-**Terminal Tools:** VisiData (data exploration); Miller, csvkit, and xsv (CSV/TSV transformation); Harlequin
-and usql (sql ide and universal interface); Termplot and Gnuplot (charts); Markdown and Pandoc (report
-generation)
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, Seaborn, Matplotlib
+- **Spreadsheets:** Excel, Google Sheets
+- **Databases:** PostgreSQL, SQLite
+- **Reporting:** Jupyter Notebook, nbconvert (PDF generation)
+- **Version Control:** Git, GitHub
+- **Terminal Tools:** VisiData (data exploration); Miller, csvkit, and xsv (CSV/TSV transformation); Harlequin and usql (sql ide and universal interface); Termplot and Gnuplot (charts); Markdown and Pandoc (report generation)
 
 ## Projects
 1. Call Center Sentiment Analysis
