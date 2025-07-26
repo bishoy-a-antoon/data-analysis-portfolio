@@ -11,5 +11,5 @@
 1. Motorcycle parts sales analysis
 	- Data source: [Kaggle](https://www.kaggle.com/code/devijeganath/motorcycle-parts-sales-analysis/notebook)
 
-1. Telco Customer Churn
+1. Telco Customer Churn (work in progress)
 	- Data source: [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
