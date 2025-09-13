@@ -1,7 +1,7 @@
 [project]
 name = "data-analysis-portfolio"
 version = "0.1.0"
-description = "Real-Time Analyst (RTA) project environment with JupyterLab, Polars, DuckDB, Plotly, Streamlit, and BI/reporting tools."
+description = "Data analysis project environment with JupyterLab, Polars, DuckDB, Plotly, Streamlit, and BI/reporting tools."
 authors = [{ name = "Bishoy Adel", email = "bishoy.a.antoon@gmail.com" }]
 requires-python = ">=3.10"
 
