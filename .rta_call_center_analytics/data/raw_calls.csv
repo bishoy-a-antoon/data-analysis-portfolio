@@ -1,0 +1,11 @@
+call_id,arrival_ts,interval_idx,queue,wait_t,handle_t,sentiment,csat,sla_met,resolution
+9a64f87b-f59,2025-08-01 00:00:00,1,SALES,2,280,Negative,2.0,True,Unresolved
+ea7ad5c8-7ec,2025-08-01 00:00:15,1,SUPPORT,5,299,Neutral,3.0,True,Resolved
+d4169471-f37,2025-08-01 00:00:10,1,BILLING,16,184,Positive,4.0,True,Resolved
+f915edaa-4e2,2025-08-01 00:00:45,1,SALES,12,368,Negative,,True,Resolved
+be665233-503,2025-08-01 00:00:52,1,SUPPORT,19,527,Neutral,,True,Unresolved
+3fb28d28-47c,2025-08-01 00:00:35,1,BILLING,19,207,Positive,4.0,True,Unresolved
+edcbe6a6-ae2,2025-08-01 00:01:30,1,SALES,17,399,Negative,2.0,True,Unresolved
+78b366b6-70a,2025-08-01 00:01:45,1,SUPPORT,22,452,Neutral,3.0,False,Unresolved
+a29b1ace-998,2025-08-01 00:01:52,1,BILLING,25,219,Positive,,False,Unresolved
+420ff37f-e94,2025-08-01 00:01:39,1,SALES,28,309,Negative,,False,Unresolved

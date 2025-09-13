@@ -1,0 +1,34 @@
+[project]
+name = "data-analysis-portfolio"
+version = "0.1.0"
+description = "Real-Time Analyst (RTA) project environment with JupyterLab, Polars, DuckDB, Plotly, Streamlit, and BI/reporting tools."
+authors = [{ name = "Bishoy Adel", email = "bishoy.a.antoon@gmail.com" }]
+requires-python = ">=3.10"
+
+dependencies = [
+    # --- Core ---
+    "jupyterlab",
+    "jupytext",
+    "jupyterlab-lsp",
+    "jupyterlab-code-formatter",
+    "python-lsp-server",
+
+    # --- Data handling ---
+    "pandas",
+
+    # --- Visualization ---
+    "plotly",
+    "seaborn",
+
+    # --- Dashboards & BI ---
+    "streamlit",
+
+]
+
+[tool.uv]
+dev-dependencies = [
+    # --- Code quality ---
+    "black",
+    "ruff",
+
+]
